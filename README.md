@@ -23,7 +23,7 @@ Space - drops piece while placing it
 
 Arrow Left/Right - moves piece left/right
 
-Arrow Down - moves piece down 1 tile or to bottom without placing
+Arrow Down - moves piece down 1 tile or to bottom depending on setting
 
 ## building
 
